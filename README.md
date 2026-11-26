@@ -1,6 +1,8 @@
 # Texts From Your Future Self
 
-[![make.fun](https://make.fun/badge/u-motasimfuad-texts-from-your-future-self-dd44595e)](https://make.fun/c/u-motasimfuad-texts-from-your-future-self-dd44595e?ref=dr95t7s8)
+[![make.fun · u-motasimfuad-texts-from-your-future-self-dd44595e](https://make.fun/badge/u-motasimfuad-texts-from-your-future-self-dd44595e.svg)](https://make.fun/bounty/u-motasimfuad-texts-from-your-future-self-dd44595e?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-texts-from-your-future-self-dd44595e)
+[![rank](https://make.fun/badge/u-motasimfuad-texts-from-your-future-self-dd44595e/Petrussilvesterlaia/future-self-20261126/rank.svg)](https://make.fun/bounty/u-motasimfuad-texts-from-your-future-self-dd44595e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-texts-from-your-future-self-dd44595e)
+[![reward](https://make.fun/badge/u-motasimfuad-texts-from-your-future-self-dd44595e/Petrussilvesterlaia/future-self-20261126/reward.svg)](https://make.fun/bounty/u-motasimfuad-texts-from-your-future-self-dd44595e?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-texts-from-your-future-self-dd44595e)
 
 A make.fun entry for the bounty
 [u-motasimfuad-texts-from-your-future-self-dd44595e](https://make.fun/c/u-motasimfuad-texts-from-your-future-self-dd44595e?ref=dr95t7s8)
